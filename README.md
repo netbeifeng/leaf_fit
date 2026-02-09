@@ -7,14 +7,17 @@ The University of Tokyo <br>
 
 **Eurographics 2026**
 
-<a href=""><img src='https://img.shields.io/badge/arXiv-LeafFit 🌿-firebrick?logo=arxiv' alt='Arxiv'></a>
+<!-- <a href=""><img src='https://img.shields.io/badge/arXiv-LeafFit 🌿-firebrick?logo=arxiv' alt='Arxiv'></a> -->
 <a href="./pdf/paper.pdf"><img src='https://img.shields.io/badge/PDF-LeafFit 🌿-orange?logo=googledocs&logoColor=white' alt='PDF'></a>
-<a href='.'><img src='https://img.shields.io/badge/Project_Page-LeafFit 🌿-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
-<a href=''><img src='https://img.shields.io/badge/Video-LeafFit 🌿-red?logo=youtube' alt='Youtube Video'></a>
+<a href='https://netbeifeng.github.io/LeafFit/'><img src='https://img.shields.io/badge/Project_Page-LeafFit 🌿-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+<!-- <a href=''><img src='https://img.shields.io/badge/Video-LeafFit 🌿-red?logo=youtube' alt='Youtube Video'></a> -->
 <p style=''> Code will release soon! </p>
 </div>
 
-[\[Arxiv\]]() [\[Paper\]](./pdf/paper.pdf) [\[Project Page\]]() [\[Video\]]() 
+<!-- [\[Arxiv\]]() -->
+[\[Paper\]](./pdf/paper.pdf) 
+[\[Project Page\]](https://netbeifeng.github.io/LeafFit/) 
+<!-- [\[Video\]]()  -->
 
 
 ![teaser](./imgs/teaser.png)
