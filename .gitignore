@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# 
+!.gitignore
+!README.md
+!imgs/
+!imgs/*
+!pdf/paper.pdf
