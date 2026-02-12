@@ -1,7 +1,7 @@
 <div align="center">
 <h2>🌿 LeafFit: Plant Assets Creation from 3D Gaussian Splatting (EG2026)</h2>
 
-[**Chang Luo**](https://github.com/netbeifeng) · [**Umetani Nobuyuki**](https://cgenglab.github.io/en/authors/admin/)  
+[**Chang Luo**](http://netbeifeng.github.io/) · [**Umetani Nobuyuki**](https://cgenglab.github.io/en/authors/admin/)  
 
 The University of Tokyo <br>
 
