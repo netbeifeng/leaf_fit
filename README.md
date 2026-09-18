@@ -54,7 +54,18 @@ For custom datasets, you may train your own plant with [GoF](https://niujinshuch
 
 ## Citation
 ```
-TBD
+@article{leaffit_luo25,
+    author = {Luo, Chang and Umetani, Nobuyuki},
+    title = {LeafFit: Plant Assets Creation from 3D Gaussian Splatting},
+    journal = {Computer Graphics Forum},
+    volume = {n/a},
+    number = {n/a},
+    pages = {e70374},
+    keywords = {CCS Concepts, • Computing methodologies → Shape modeling, Graphics systems and interfaces},
+    doi = {https://doi.org/10.1111/cgf.70374},
+    url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70374},
+    eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.70374}
+}
 ```
 
 ## Reference
